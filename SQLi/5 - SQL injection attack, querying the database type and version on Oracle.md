@@ -12,3 +12,5 @@ The categories are retreiving 2 data `Title` and `Paragraph` with the content, w
 ```
 
 Injecting a union query with the `banner` which retrieves `type` and `version` of the Oracle database `v$version`. 
+
+[Lab](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle)
